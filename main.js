@@ -4,7 +4,7 @@ let T3 = document.querySelector('.T3'),
     secondEle = document.querySelector('.second'),
     i = 0;
 
-setInterval(changeTimers, 128)
+setInterval(changeTimers, 128);
 
 function changeTimers(){
     i++;
